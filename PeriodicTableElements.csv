@@ -51,7 +51,7 @@ id,Period Number,Name,Symbol,Atomic Number,Atomic Weight,Melting Point,Boiling P
 50,5.0,Tin,Sn,50.0,118.71,449.47,4715.0,7.287,Solid,Metal,Poor Metals,"Food Cans, Fire Sprinklers, Bronze"
 51,5.0,Antimony,Sb,51.0,121.76,1167.13,2889.0,6.685,Solid,Semi-metal,Poor Metals,"Car Batteries, Batteries, Bullets, Matches, Flame Retardant, Semiconductor Electronics"
 52,5.0,Tellurium,Te,52.0,127.6,841.12,1810.0,6.232,Solid,Semi-metal,Metalloids,"Thermoelectric Coolers, Computer Disks, Copy Machines, Semiconductor Electronics"
-53,5.0,Iodine,In,53.0,126.90447,236.7,364.0,4.93,Solid,Non-metal,Halogens,"Disinfectant, Photography Film"
+53,5.0,Iodine,I,53.0,126.90447,236.7,364.0,4.93,Solid,Non-metal,Halogens,"Disinfectant, Photography Film"
 54,5.0,Xenon,Xe,54.0,131.293,-169.22,-162.62,0.005887,Gas,Non-metal,Noble Gas,"Lamps, Stadium Lamps, Lasers"
 55,6.0,Cesium,Cs,55.0,132.905452,83.19,1240.0,1.93,Solid,Metal,Alkali Metals,"Global Navigation, Vacuum Tube"
 56,6.0,Barium,Ba,56.0,137.327,1341.0,3447.0,3.62,Solid,Metal,Alkali Earth Metals,"Platics, Paper, Fireworks"
