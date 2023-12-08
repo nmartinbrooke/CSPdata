@@ -1,0 +1,51 @@
+state,abbr,date_entered,year,order,stateX,stateY
+Delaware,DE,Dec. 7,1787,1,383,180
+Pennsylvania,PA,Dec. 12,1787,2,336,154
+New Jersey,NJ,Dec. 18,1787,3,372,163
+Georgia,GA,Jan. 2,1788,4,314,247
+Connecticut,CT,Jan. 9,1788,5,378,148
+Massachusetts,MA,Feb. 6,1788,6,385,118
+Maryland,MD,Apr. 28,1788,7,373,190
+South Carolina,SC,May 23,1788,8,330,230
+New Hampshire,NH,June 21,1788,9,358,95
+Virginia,VA,June 25,1788,10,341,188
+New York,NY,July 26,1788,11,347,134
+North Carolina,NC,Nov. 21,1789,12,339,207
+Rhode Island,RI,May 29,1790,13,390,142
+Vermont,VT,Mar. 4,1791,14,344,100
+Kentucky,KY,June 1,1792,15,293,200
+Tennessee,TN,June 1,1796,16,272,220
+Ohio,OH,Mar. 1,1803,17,302,172
+Louisiana,LA,Apr. 30,1812,18,250,275
+Indiana,IN,Dec. 11,1816,19,281,176
+Mississippi,MS,Dec. 10,1817,20,265,252
+Illinois,IL,Dec. 3,1818,21,259,182
+Alabama,AL,Dec. 14,1819,22,286,241
+Maine,ME,Mar. 15,1820,23,380,96
+Missouri,MO,Aug. 10,1821,24,239,202
+Arkansas,AR,June 15,1836,25,241,232
+Michigan,MI,Jan. 26,1837,26,286,152
+Florida,FL,Mar. 3,1845,27,334,286
+Texas,TX,Dec. 29,1845,28,199,268
+Iowa,IA,Dec. 28,1846,29,225,168
+Wisconsin,WI,May 29,1848,30,252,145
+California,CA,Sept. 9,1850,31,48,211
+Minnesota,MN,May 11,1858,32,220,116
+Oregon,OR,Feb. 14,1859,33,52,132
+Kansas,KS,Jan. 29,1861,34,197,200
+West Virginia,WV,June 20,1863,35,321,185
+Nevada,NV,Oct. 31,1864,36,67,180
+Nebraska,NE,Mar. 1,1867,37,188,172
+Colorado,CO,Aug. 1,1876,38,145,195
+North Dakota,ND,Nov. 2,1889,39,180,116
+South Dakota,SD,Nov. 2,1889,40,182,143
+Montana,MT,Nov. 8,1889,41,128,120
+Washington,WA,Nov. 11,1889,42,60,108
+Idaho,ID,July 3,1890,43,91,149
+Wyoming,WY,July 10,1890,44,136,155
+Utah,UT,Jan. 4,1896,45,100,191
+Oklahoma,OK,Nov. 16,1907,46,206,229
+New Mexico,NM,Jan. 6,1912,47,141,239
+Arizona,AZ,Feb. 14,1912,48,94,238
+Alaska,AK,Jan. 3,1959,49,37,287
+Hawaii,HI,Aug. 21,1959,50,116,316
